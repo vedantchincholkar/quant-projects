@@ -1,4 +1,4 @@
-# Portfolio Risk Analysis – Multi-Asset & Systemic Risk
+# Portfolio Risk Analysis - Multi-Asset & Systemic Risk
 
 ## Overview
 This repository contains projects that explore portfolio risk management at both the asset level and the systemic level.  
