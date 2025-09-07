@@ -7,7 +7,7 @@ The notebooks demonstrate portfolio optimization, diversification benefits and s
 - **Part I – Multi-Asset Risk & Portfolio Management**  
   Focuses on portfolio construction, risk-return tradeoffs and optimization across multiple asset classes.  
 
-- **Part II – CoVaR for Systemic Risk **
+- **Part II – CoVaR for Systemic Risk**
   Extends the analysis to measure contagion effects in financial markets using CoVaR and quantile regression methods.
 
 ---
