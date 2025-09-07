@@ -9,9 +9,3 @@ It demonstrates practical techniques for portfolio optimization, risk measuremen
 - Efficient frontier visualization
 - Diversification and risk factor analysis
 - Backtesting with historical financial data
-
-## Installation
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-pip install -r requirements.txt
